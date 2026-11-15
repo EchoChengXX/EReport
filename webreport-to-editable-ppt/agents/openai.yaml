@@ -1,0 +1,4 @@
+interface:
+  display_name: "WebReport转可编辑PPT"
+  short_description: "将HTML演示稿转换为保留原布局、文字与矢量图形的可编辑PPT"
+  default_prompt: "使用 $webreport-to-editable-ppt 将提供的HTML WebReport按原页序转换为可编辑PPT，统一微软雅黑并保留原生图标、列表和带字框。"

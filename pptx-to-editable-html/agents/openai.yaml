@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT转可编辑HTML"
+  short_description: "将现有PPT高保真转换为可编辑HTML，合并语义文字和渐变对象并校验复用"
+  default_prompt: "使用 $pptx-to-editable-html 将这份PPT复刻为高保真可编辑HTML，保留原稿内容并验证编辑与保存。"
